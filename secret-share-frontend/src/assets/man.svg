@@ -1,0 +1,36 @@
+<svg width="120" height="150" viewBox="0 0 120 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- الجسم -->
+  <ellipse cx="60" cy="105" rx="32" ry="35" fill="#325288"/>
+  <!-- وجه -->
+  <ellipse cx="60" cy="55" rx="28" ry="28" fill="#ffe0b2"/>
+  <!-- أذن -->
+  <ellipse cx="32" cy="62" rx="5" ry="7" fill="#fdcc8a"/>
+  <ellipse cx="88" cy="62" rx="5" ry="7" fill="#fdcc8a"/>
+  <!-- شعر -->
+  <path d="M38 45 Q60 20 82 45" stroke="#1b2536" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- عين يمنى -->
+  <ellipse cx="52" cy="59" rx="4" ry="4.5" fill="#fff"/>
+  <ellipse cx="52" cy="59" rx="2" ry="2.3" fill="#2f2f2f"/>
+  <!-- عين يسرى -->
+  <ellipse cx="68" cy="59" rx="4" ry="4.5" fill="#fff"/>
+  <ellipse cx="68" cy="59" rx="2" ry="2.3" fill="#2f2f2f"/>
+  <!-- حاجبان -->
+  <rect x="47" y="50" width="8" height="2" rx="1" fill="#333"/>
+  <rect x="65" y="50" width="8" height="2" rx="1" fill="#333"/>
+  <!-- أنف -->
+  <ellipse cx="60" cy="67" rx="3.3" ry="2.2" fill="#deb887"/>
+  <!-- فم مبتسم -->
+  <path d="M53 75 Q60 82 67 75" stroke="#b46a16" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- يد يمنى -->
+  <ellipse cx="25" cy="120" rx="9" ry="4.5" fill="#ffe0b2"/>
+  <rect x="28" y="121" width="12" height="10" rx="5" fill="#325288" transform="rotate(-15 34 126)"/>
+  <!-- يد يسرى -->
+  <ellipse cx="95" cy="120" rx="9" ry="4.5" fill="#ffe0b2"/>
+  <rect x="80" y="121" width="12" height="10" rx="5" fill="#325288" transform="rotate(15 86 126)"/>
+  <!-- رجل يمنى -->
+  <rect x="44" y="130" width="11" height="18" rx="5" fill="#2d4159"/>
+  <ellipse cx="49.5" cy="147" rx="8" ry="4" fill="#b0a09a"/>
+  <!-- رجل يسرى -->
+  <rect x="65" y="130" width="11" height="18" rx="5" fill="#2d4159"/>
+  <ellipse cx="70.5" cy="147" rx="8" ry="4" fill="#b0a09a"/>
+</svg>
